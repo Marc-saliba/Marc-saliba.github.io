@@ -1,0 +1,111 @@
+#name a{
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 25px;
+    font-weight: 100;
+    float: left;  
+}
+body{
+    background:#85efc5;
+}
+.images{
+    padding-top: 100px;
+}
+.navigation1{
+    font-weight: 600;
+    color: white;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: 22px;
+    position: relative;
+    top:7px;
+    left: 470px;
+}
+.navigation2{
+    font-weight: 600;
+    color: black;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: 22px;
+    position: relative;
+    top:7px;
+    left: 470px;
+}
+.navigation3{
+    font-weight: 600;
+    color: black;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: 22px;
+    position: relative;
+    top:7px;
+    left: 470px;
+}
+.navigation4{
+    font-weight: 600;
+    color: black;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: 22px;
+    position: relative;
+    top:7px;
+    left: 470px;
+}
+#imge1{
+    width: 700px;
+    float: left;
+}
+#imge2{
+    width:700px;
+    float: left;
+}
+#imge3{
+    width:700px;
+    float: left;
+}
+#imge4{
+    width:700px;
+    float: left;
+}
+
+#imge7{
+    height:756px;
+}
+#imge5{
+    width:500px;
+    height:700px ;
+    float: left;
+}
+#imge6{
+    width:650px;
+    float: left;
+}
+#imge8{
+    width:658px;
+    float: left;
+}
+#twtr{
+    width:50px;
+    position: relative;
+    float: right;
+}
+#ytb{
+    width:50px;
+    position: relative;
+    float: right;
+}
+
+.navigation1:hover {
+    color: black;
+}
+.navigation2:hover{
+    color: white;
+}
+.navigation3:hover{
+    color: white;
+}
+.navigation4:hover{
+    color: white;
+}

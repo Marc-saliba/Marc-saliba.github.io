@@ -1,0 +1,88 @@
+#name a{
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 25px;
+    font-weight: 100;
+    float: left;  
+}
+body{
+    background:#85efc5;
+}
+#img1{
+    width: 900px;
+    position: relative;
+    left: 300px;
+    top: 200px;
+}
+.navigation1{
+    font-weight: 600;
+    color: black;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: 22px;
+    position: relative;
+    top:7px;
+    left: 470px;
+}
+.navigation2{
+    font-weight: 600;
+    color: white;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: 22px;
+    position: relative;
+    top:7px;
+    left: 470px;
+}
+.navigation3{
+    font-weight: 600;
+    color: black;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: 22px;
+    position: relative;
+    top:7px;
+    left: 470px;
+}
+.navigation4{
+    font-weight: 600;
+    color: black;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: 22px;
+    position: relative;
+    top:7px;
+    left: 470px;
+}
+#twtr{
+    width:50px;
+    position: relative;
+    float: right;
+}
+#ytb{
+    width:50px;
+    position: relative;
+    float: right;
+}
+.images{
+    padding-top: 100px;
+}
+#imge13{
+    width:800px;
+    position: relative;
+    left: 515px;
+}
+.navigation1:hover {
+    color: white;
+}
+.navigation2:hover{
+    color: black;
+}
+.navigation3:hover{
+    color: white;
+}
+.navigation4:hover{
+    color: white;
+}
